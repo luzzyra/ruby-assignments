@@ -1,2 +1,0 @@
-# ruby-assignments
-Ruby assignments
